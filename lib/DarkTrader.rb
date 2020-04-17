@@ -1,7 +1,4 @@
-#//////////////////////////////////////////////////AVERTISSEMENT\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\# 
-#À tous ceux qui auront la (mal)chance de lire ce code, je m'excuse d'avance pour sa médiocrité :-)
-#Je n'ai vraiment rien compris au scraping
-#    ¯\_(⊙︿⊙)_/¯
+
 
 require 'rubygems'
 require 'nokogiri'
